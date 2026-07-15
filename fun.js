@@ -22,7 +22,7 @@ console.log("Division:", num1 / num2);
 console.log("Modulus:", num1 % num2); */
 
 // Task-3
-let studentName = "Sabbir Ahmed";
+/* let studentName = "Sabbir Ahmed";
 let age = 25;
 let country = "Bangkadesh";
 let isStudent = true;
@@ -30,4 +30,22 @@ let isStudent = true;
 console.log("Student Name:", studentName);
 console.log("Age:", age);
 console.log("Country:", country);
-console.log("Is Student:", isStudent);
+console.log("Is Student:", isStudent); */
+
+// task-4
+/* let a = 100;
+let b = "Programming";
+let c = true;
+let d = false;
+let e = 3.1416;
+
+console.log("a:", typeof a);
+console.log("b:", typeof b);
+console.log("c:", typeof c);
+console.log("d:", typeof d);
+console.log("e:", typeof e); */
+
+// Task-5
+let name = "Samir";
+
+console.log(`My name is ${name}`);
