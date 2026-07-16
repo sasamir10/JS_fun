@@ -83,3 +83,6 @@ let age = 25;
 let status = age <= 18 ? "Valid voter" : "Invalid voter";
 
 console.log(status);
+
+let isLoggedIn = false;
+console.log(!isLoggedIn);
