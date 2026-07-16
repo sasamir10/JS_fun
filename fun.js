@@ -46,6 +46,40 @@ console.log("d:", typeof d);
 console.log("e:", typeof e); */
 
 // Task-5
-let name = "Samir";
+/* let name = "Samir";
 
-console.log(`My name is ${name}`);
+console.log(`My name is ${name}`); */
+
+// console.log("12" === 12);
+
+/* if (false) {
+    console.log("Is this code running?");
+} else if (true) {
+    console.log("What will happen?1");
+} else if (false) {
+    console.log("What will happen?2");
+} else if (true) {
+    console.log("What will happen?3");
+} else {
+    console.log("then?4");
+} */
+
+//  nested if-else
+/* let age = 16;
+let seniorAge = 18;
+
+if (age > 15) {
+    if (seniorAge > 20) {
+        console.log("Entry");
+    } else {
+        console.log("No Entry");
+    }
+} else {
+    console.log("No Entry");
+} */
+
+let age = 25;
+
+let status = age <= 18 ? "Valid voter" : "Invalid voter";
+
+console.log(status);
