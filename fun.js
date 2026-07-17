@@ -78,11 +78,48 @@ if (age > 15) {
     console.log("No Entry");
 } */
 
-let age = 25;
+/* let age = 25;
 
 let status = age <= 18 ? "Valid voter" : "Invalid voter";
 
 console.log(status);
 
 let isLoggedIn = false;
-console.log(!isLoggedIn);
+console.log(!isLoggedIn); */
+
+// practise task
+/* let price1 = 50;
+let price2 = 30;
+
+if (price1 != price2) {
+    console.log("Ok");
+} else {
+    console.log("Not ok");
+} */
+
+/* console.log("5" == 5);
+console.log("5" === 5); */
+
+/* let isRaining = false;
+
+if (isRaining == true) {
+    console.log("Take an umbrella");
+} else {
+    console.log("no need to take an umbrella");
+} */
+
+/* let stock = 0;
+
+if (stock == 0) {
+    console.log("Out of stock");
+} */
+
+let number = 890;
+
+if (number > 0) {
+    console.log("Number is positive");
+} else if (number == 0) {
+    console.log("Number is neutral");
+} else {
+    console.log("Number is Negative");
+}
