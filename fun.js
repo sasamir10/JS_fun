@@ -114,7 +114,7 @@ if (stock == 0) {
     console.log("Out of stock");
 } */
 
-let number = 890;
+/* let number = 890;
 
 if (number > 0) {
     console.log("Number is positive");
@@ -122,4 +122,19 @@ if (number > 0) {
     console.log("Number is neutral");
 } else {
     console.log("Number is Negative");
+} */
+
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
 }
+
+// let i = 1;
+
+/* while (i <= 100) {
+    console.log("Finally While loop iteration completed.");
+    i++;
+} */
+/* do {
+    console.log("Is it do-while loop");
+    i++;
+} while (i <= 100); */
