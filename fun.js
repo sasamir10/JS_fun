@@ -124,9 +124,9 @@ if (number > 0) {
     console.log("Number is Negative");
 } */
 
-for (let i = 1; i <= 100; i++) {
+/* for (let i = 1; i <= 25; i++) {
     console.log(i);
-}
+} */
 
 // let i = 1;
 
@@ -138,3 +138,87 @@ for (let i = 1; i <= 100; i++) {
     console.log("Is it do-while loop");
     i++;
 } while (i <= 100); */
+
+/* let i = 0;
+
+while (i > 5) {
+    console.log("While loop");
+    i++;
+} */
+
+/* for (let i = 1; i <= 5; i++) {
+    console.log("Hello");
+} */
+
+/* for (let i = 1; i <= 10; i++) {
+    console.log(i);
+} */
+
+/* let i = 10;
+while (i >= 1) {
+    console.log(i);
+    i--;
+} */
+
+/* let i = 1;
+while (i <= 7) {
+    console.log("Loop চলেছ");
+    i++;
+} */
+
+/* for (let i = 1; i <= 30; i++) {
+    if (i % 2 == 0) {
+        console.log(i);
+    }
+} */
+/* let sum = 0;
+for (let i = 1; i <= 20; i++) {
+    sum += i;
+}
+
+console.log("The FINAL Sum :", sum);
+ */
+
+/* let num = 9;
+for (let i = 1; i <= 10; i++) {
+    num *= i;
+    console.log("9 *", i, "=", num);
+} */
+
+/* for (i = 20; i >= 1; i--) {
+    console.log(i);
+} */
+/* let sum = 0;
+for (let i = 1; i <= 50; i++) {
+    if (i % 2 === 0) {
+        sum += i;
+    }
+}
+
+console.log("The FINAL sum of Even num :", sum);
+ */
+
+/* for (let i = 1; i <= 50; i++) {
+    if (i > 30) {
+        break;
+    }
+    console.log(i);
+} */
+
+/* for (let i = 1; i <= 20; i++) {
+    if (i % 4 == 0) {
+        continue;
+    }
+
+    console.log(i);
+} */
+
+for (let i = 1; i <= 100; i++) {
+    if (i % 5 == 0) {
+        continue;
+        if (i > 40) {
+            break;
+        }
+    }
+    console.log(i);
+}
